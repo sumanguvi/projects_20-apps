@@ -1,0 +1,22 @@
+| **Action**          | **Command**                                                                                   |
+|---------------------|-----------------------------------------------------------------------------------------------|
+| Create a Branch     | `git checkout -b new_branch`                                                                 |
+| Modify a Branch     | `git checkout existing_branch`                                                               |
+| Delete a Branch     | `git branch -d branch_to_delete`                                                              |
+| Create Remote       | `git remote add origin <remote_repository_URL>`                                                |
+| View Remotes        | `git remote -v`                                                                               |
+| Rename Remote       | `git remote rename <old_name> <new_name>`                                                     |
+| Remove Remote       | `git remote remove <remote_name>`                                                             |
+| Push to Remote      | `git push <remote_name> <branch_name>`                                                        |
+| Pull from Remote    | `git pull <remote_name> <branch_name>`                                                        |
+| Update Remote URL   | `git remote set-url origin <new_remote_URL>`                                                  |
+| List Branches       | `git branch`                                                                                 |
+| Switch Branch       | `git checkout <branch_name>`                                                                 |
+| Merge Branches      | `git merge <branch_to_merge>`                                                                |
+| Delete Remote Branch| `git push <remote_name> --delete <branch_name>`                                               |
+
+This table provides a summary of GitHub commands for creating, modifying, and managing branches, remote repositories,
+and related operations in a tabular format.
+
+
+https://github.com/sumanguvi/projects_20-apps.git
